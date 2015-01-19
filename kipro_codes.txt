@@ -1,0 +1,11 @@
+1 = play
+2 = 
+3 = rec
+4 = stop
+5 = fast fwd
+6 = fast rev
+7 = step fwd
+8 = step rev
+9 = next clip
+10 = prev clip
+14 = cue
